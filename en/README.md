@@ -37,7 +37,7 @@ Translations:
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
-![Coding at the whiteboard - from HBO's Silicon Valley](coding_board_small-1470866369118.jpg)
+![Coding at the whiteboard - from HBO's Silicon Valley](/coding_board_small-1470866369118.jpg)
 
 This is meant for **new software engineers** or those switching from
 software/web development to software engineering (where computer science knowledge is required). If you have
@@ -1363,7 +1363,7 @@ No whiteboard at home? That makes sense. I'm a weirdo and have a big whiteboard.
 large drawing pad from an art store. You can sit on the couch and practice. This is my "sofa whiteboard".
 I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick.
 
-![my sofa whiteboard](art_board_sm_2-1476233630368.jpg)
+![my sofa whiteboard](/art_board_sm_2-1476233630368.jpg)
 
 Supplemental:
 

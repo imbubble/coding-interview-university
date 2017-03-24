@@ -6,7 +6,7 @@ Version original: [Bahasa Inggris](README.md)
 
 Ini adalah ringkasan studi saya selama beberapa bulan dari web developer (otodidak, tanpa gelar sarjana informatika) hingga menjadi *software engineer Google*.
 
-![Menulis kode di papan tulis - dikutip dari serial TV Silicon Valley oleh HBO](coding_board_small-1470866369118.jpg)
+![Menulis kode di papan tulis - dikutip dari serial TV Silicon Valley oleh HBO](/coding_board_small-1470866369118.jpg)
 
 Saya telah mengupas catatan **Google's Coaching Note** dan berikut adalah hal-hal penting dari catatan tersebut. Ada beberapa poin yang saya tambahkan pada bagian akhir yang mungkin muncul dalam wawancara atau dapat berguna dalam proses penyelesaian masalah.
 Banyak poin berasal dari artikel Steve Yegge "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)"  yang berisi poin-poin dari **Google's Coaching Note**.
@@ -185,7 +185,7 @@ Saya menggunakan markdown spesial dari Github, termasuk daftar tugas untuk menge
 
 Print satu atau beberapa foto dari "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" (untuk ditempel tentunya) sebagai reminder anda apa hasil usaha yang anda akan dapatkan.
 
-[![future Googler sign](Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
+[![future Googler sign](/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
 ## Jangan merasa anda kurang pintar
 - Para engineers/programmer di google adalah orang-orang pintar, tapi banyak dari mereka berpikir bahwa mereka tidak cukup pintar, walaupun mereka bekerja di Google.
@@ -1313,7 +1313,7 @@ No whiteboard at home? That makes sense. I'm a weirdo and have a big whiteboard.
 large drawing pad from an art store. You can sit on the couch and practice. This is my "sofa whiteboard".
 I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick.
 
-![my sofa whiteboard](art_board_sm_2-1476233630368.jpg)
+![my sofa whiteboard](/art_board_sm_2-1476233630368.jpg)
 
 Supplemental:
 

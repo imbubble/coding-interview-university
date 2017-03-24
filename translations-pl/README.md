@@ -30,7 +30,7 @@ Tłumaczenia:
 Jest to mój wielomiesięczny program nauczania mający na celu awans z poziomu web developera (samouka, bez studiów informatycznych)
 do poziomu inżyniera oprogramowania w Google.
 
-![Coding at the whiteboard - from HBO's Silicon Valley](coding_board_small-1470866369118.jpg)
+![Coding at the whiteboard - from HBO's Silicon Valley](/coding_board_small-1470866369118.jpg)
 
 Znajdziesz tutaj wiele rzeczy związanych z Google, ale starałem się uogólnić tę listę, aby była przydatna dla każdego.
 
@@ -1327,7 +1327,7 @@ No whiteboard at home? That makes sense. I'm a weirdo and have a big whiteboard.
 large drawing pad from an art store. You can sit on the couch and practice. This is my "sofa whiteboard".
 I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick.
 
-![my sofa whiteboard](art_board_sm_2-1476233630368.jpg)
+![my sofa whiteboard](/art_board_sm_2-1476233630368.jpg)
 
 Supplemental:
 
