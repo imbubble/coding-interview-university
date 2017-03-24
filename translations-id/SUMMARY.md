@@ -1,0 +1,118 @@
+## Daftar Isi
+
+- [Apa ini?](README.md#ringkasan-apa-ini)
+- [Mengapa menggunakan ini?](README.md#mengapa-menggunakan-ini)
+- [Bagaimana cara menggunakannya](README.md#bagaimana-cara-menggunakannya)
+- [Masuk ke Mode Googley](README.md#masuk-ke-mode-googley)
+- [Jangan merasa anda kurang pintar](README.md#jangan-merasa-anda-kurang-pintar)
+- [Tentang Google](README.md#tentang-google)
+- [Tentang Sumber Video](README.md#tentang-sumber-video)
+- [Proses Interview dan Preparasi Wawancara Secara Umum](README.md#proses-interview-dan-preparasi-wawancara-secara-umum)
+- [Pilih Satu Bahasa Pemrograman untuk Wawancara](README.md#pilih-satu-bahasa-pemrograman-untuk-wawancara)
+- [Daftar Buku](README.md#daftar-buku)
+- [Sebelum Anda Mulai](README.md#sebelum-anda-mulai)
+- [Apa yang Tidak Akan Dibahas](README.md#apa-yang-tidak-akan-dibahas)
+- [Ilmu Prasyarat](README.md#ilmu-prasyarat)
+- [Rencana Harian](README.md#rencana-harian)
+- [Kompleksitas Algoritma / Big-O / Analisis Asimptotik](README.md#kompleksitas-algoritma--big-o--analisis-asimptotik)
+- [Struktur Data](README.md#struktur-data)
+    - [Arrays](README.md#arrays)
+    - [Linked Lists](README.md#linked-lists)
+    - [Stack](README.md#stack)
+    - [Queue](README.md#queue)
+    - [Hash table](README.md#hash-table)
+- [Pengetahauan Tambahan](README.md#pengetahuan-tambahan)
+    - [Binary search](README.md#binary-search)
+    - [Operasi Bitwise](README.md#operasi-bitwise)
+- [Trees](README.md#trees)
+    - [Trees - Catatan & Latar Belakang](README.md#trees---catatan--latar-belakang)
+    - [Binary search trees: BSTs](README.md#binary-search-trees-bsts)
+    - [Heap / Priority Queue / Binary Heap](README.md#heap--priority-queue--binary-heap)
+    - balanced search trees (konsep dasar, tidak mendalam)
+    - traversals: preorder, inorder, postorder, BFS, DFS
+- [Sorting](README.md#sorting)
+    - selection
+    - insertion
+    - heapsort
+    - quicksort
+    - merge sort
+- [Graphs](README.md#graphs)
+    - directed
+    - undirected
+    - adjacency matrix
+    - adjacency list
+    - traversals: BFS, DFS
+- [Pengetahuan Tambahan Lainnya](README.md#pengetahuan-tambahan-lainnya)
+    - [Rekursi](README.md#rekursi)
+    - [Pemrograman Berbasis Objek](README.md#pemrograman-berbasis-objek)
+    - [Pola Desain](README.md#pola-desain)
+    - [Kombinatorik (n pilih k) & Probabilitas](README.md#kombinatorik-n-pilih-k--probabilitas)
+    - [NP, NP-Lengkap dan Algoritma Aproksimasi](README.md#np-np-lengkap-dan-algoritma-aproksimasi)
+    - [Caches](README.md#caches)
+    - [Proses dan Threads](README.md#proses-dan-threads)
+    - [Tesis](README.md#tesis)
+    - [Testing](README.md#testing)
+    - [Penjadwalan](README.md#penjadwalan)
+    - [Implementasi Rutinitas Sistem](README.md#implementasi-rutinitas-sistem)
+    - [Pencarian String & Manipulasi](README.md#pencarian-string--manipulasi)
+- [Perancangan Sistem, Skalabilitas, Penganganan Data](README.md#perancangan-sistem-skalabilitas-penanganan-data) (jika anda memiliki pengalaman 4 tahun lebih)
+- [Ulasan Akhir](README.md#ulasan-akhir)
+- [Latihan Pertanyaan Pemrograman](README.md#latihan-pertanyaan-pemrograman)
+- [Soal-soal Pemrograman](README.md#soal-soal-pemrograman)
+- [Menjelang Proses Interview](README.md#menjelang-proses-interview)
+- [CV Anda](README.md#cv-anda)
+- [Perkirakan Pertanyaan Yang Akan Diajukan](README.md#perkirakan-pertanyaan-yang-akan-diajukan)
+- [Bertanyalah Pada Pewawancara](README.md#bertanyalah-pada-pewawancara)
+- [Saat Anda Berhasil Mendapatkan Pekerjaannya](README.md#saat-anda-berhasil-mendapatkan-pekerjaannya)
+
+---------------- Semua dibawah ini bersifat opsional ----------------
+
+- [Buku Tambahan](README.md#buku-tambahan)
+- [Materi Tambahan](README.md#materi-tambahan)
+    - [Pemrograman Dinamis](README.md#pemrograman-dinamis)
+    - [Kompilator](README.md#kompilator)
+    - [Bilangan Titik Mengambang](README.md#bilangan-titik-mengambang)
+    - [Unicode](README.md#unicode)
+    - [Endianness](README.md#endianness)
+    - [Emacs and vi(m)](README.md#emacs-and-vim)
+    - [Unix command line tools](README.md#unix-command-line-tools)
+    - [Teori Informasi](README.md#teori-informasi)
+    - [Pariti & Kode Hamming](README.md#pariti--kode-hamming)
+    - [Entropi](README.md#entropi)
+    - [Kriptografi](README.md#kriptografi)
+    - [Kompresi](README.md#kompresi)
+    - [Jaringan](README.md#jaringan) (bersiaplah mendapatkan pertanyaan jaringan apabila anda ingin menjadi system engineer)
+    - [Sekuritas Komputer](README.md#sekuritas-komputer)
+    - [Garbage collection](README.md#garbage-collection)
+    - [Pemrograman Paralel](README.md#pemrograman-paralel)
+    - [Pengiriman Pesan, Serialisasi, dan Sistem Queueing](README.md#pengiriman-pesan-serialisasi-dan-sistem-queueing)
+    - [Fast Fourier Transform](README.md#fast-fourier-transform)
+    - [Bloom Filter](README.md#bloom-filter)
+    - [HyperLogLog](README.md#hyperloglog)
+    - [Locality-Sensitive Hashing](README.md#locality-sensitive-hashing)
+    - [van Emde Boas Trees](README.md#van-emde-boas-trees)
+    - [Augmented Data Structures](README.md#augmented-data-structures)
+    - [Tries](README.md#tries)
+    - [N-ary (K-ary, M-ary) trees](README.md#n-ary-k-ary-m-ary-trees)
+    - [Balanced search trees](README.md#balanced-search-trees)
+        - AVL trees
+        - Splay trees
+        - Red/black trees
+        - 2-3 search trees
+        - 2-3-4 Trees (aka 2-4 trees)
+        - N-ary (K-ary, M-ary) trees
+        - B-Trees
+    - [k-D Trees](README.md#k-d-trees)
+    - [Skip lists](README.md#skip-lists)
+    - [Network Flows](README.md#network-flows)
+    - [Disjoint Sets & Union Find](README.md#disjoint-sets--union-find)
+    - [Matematika untuk Pemrosesan Cepat](README.md#matematika-untuk-pemrosesan-cepat)
+    - [Treap](README.md#treap)
+    - [Pemrograman Linear](README.md#pemrograman-linear)
+    - [Geometri, Convex hull](README.md#geometri-convex-hull)
+    - [Matematika Diskrit](README.md#matematika-diskrit)
+    - [Pembelajaran Mesin](README.md#pembelajaran-mesin)
+    - [Go](README.md#go)
+- [Detil Tambahan pada Beberapa Subjek](README.md#detil-tambahan-pada-beberapa-subjek)
+- [Seri Video](README.md#seri-video)
+- [Kursus Ilmu Komputer](README.md#kursus-ilmu-komputer)
