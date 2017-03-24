@@ -1,0 +1,11 @@
+{
+    "generator": "site",
+    "title": "coding-interview-university",
+    "description": null,
+    "structure": {
+        "readme": "readme.md"
+    },
+    "plugins": [
+        "anchors"
+    ]
+}
