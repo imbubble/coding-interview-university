@@ -1379,7 +1379,7 @@ Dưới đây là một bài viết tuyệt vời về phương thức luận, c
 
 Không có bảng trắng ở nhà? Cũng hợp lý chứ. Tôi có chút khác biệt và tôi có một cái bảng trắng rất to. Thay vì bảng trắng, bạn có thể chọn một tập sổ ký họa từ các cửa hàng nghệ thuật. Bạn có thể ngồi ở ghế salon và thực hành. Tôi gọi nó là "bảng trắng mềm mại". Tôi có bỏ vào cây bút để dễ ước lượng. Nếu bạn dùng bút mực, bạn sẽ mong chọn loại nào có thể tẩy được ấy, vì sớm muộn sẽ rối cả lên.
 
-![Bảng trắng mềm mại của tôi(my sofa whiteboard)](/art_board_sm_2-1476233630368.jpg)
+![Bảng trắng mềm mại của tôi(my sofa whiteboard)](../art_board_sm_2-1476233630368.jpg)
 
 Phụ lục:
 

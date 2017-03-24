@@ -126,7 +126,7 @@ memory" का एरर न दे, और तब मुजे कोई वै
 
 "[फ्यूचर गूगलर](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" साइन की एक (या दो) प्रिंट निकाले और अपने पुरस्कार को आपने नजरो के सामने रखे.
 
-[![future Googler sign](/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
+[![future Googler sign](../Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
 ## क्या मुजे नौकरी मिली?
 
@@ -146,7 +146,7 @@ memory" का एरर न दे, और तब मुजे कोई वै
 - Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
 - LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
 
-![John Washam - Google Interview University](/book_stack_photo_resized_18_1469302751157-1472661280368.png)
+![John Washam - Google Interview University](../book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
 ## कभीबी आप चालक नहीं हो ऐसा ना सोचो
 

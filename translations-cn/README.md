@@ -135,7 +135,7 @@
 
 把一个（或两个）印有“[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)”的图案打印出来，并用你誓要成功的眼神盯着它。
 
-[![future Googler sign](/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
+[![future Googler sign](../Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
 ## 我得到了工作吗？
 
@@ -156,7 +156,7 @@
 - Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
 - LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
 
-![John Washam - Google Interview University](/book_stack_photo_resized_18_1469302751157-1472661280368.png)
+![John Washam - Google Interview University](../book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
 ## 不要妄自菲薄
 

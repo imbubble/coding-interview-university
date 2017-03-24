@@ -185,7 +185,7 @@ Saya menggunakan markdown spesial dari Github, termasuk daftar tugas untuk menge
 
 Print satu atau beberapa foto dari "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" (untuk ditempel tentunya) sebagai reminder anda apa hasil usaha yang anda akan dapatkan.
 
-[![future Googler sign](/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
+[![future Googler sign](../Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
 ## Jangan merasa anda kurang pintar
 - Para engineers/programmer di google adalah orang-orang pintar, tapi banyak dari mereka berpikir bahwa mereka tidak cukup pintar, walaupun mereka bekerja di Google.
@@ -1313,7 +1313,7 @@ No whiteboard at home? That makes sense. I'm a weirdo and have a big whiteboard.
 large drawing pad from an art store. You can sit on the couch and practice. This is my "sofa whiteboard".
 I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick.
 
-![my sofa whiteboard](/art_board_sm_2-1476233630368.jpg)
+![my sofa whiteboard](../art_board_sm_2-1476233630368.jpg)
 
 Supplemental:
 
