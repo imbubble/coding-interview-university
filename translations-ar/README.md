@@ -21,7 +21,7 @@ Translations:
 هي خطة من عدة أشهر من مطور تطبيقات ويب (قائمة على التعليم الذاتي، ومبدون درجة علمية في علوم الحاسب) لمنصب مهندس برمجيات بجوجل
 
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+![Coding at the whiteboard - from HBO's Silicon Valley](coding_board_small-1470866369118.jpg)
 
 هذه القائمة الطويلة تم إعدادها من ملاحظات الإعداد لجوجل، لذلك هي الأشياء مطالب بمعرفتها.
 هناك أشياء إضافية أضفتها في آخر القائمة التي ربما تأتي في المقابلة الشخصية أو تساعد في حل المشاكل البرمجية. كتيرا من العناصر من: كتاب ستيف ياج "[احصل على وظيفة بجوجل](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" ومن حين لآخر ملاحظات الإعداد لجوجل.
@@ -199,7 +199,7 @@ Translations:
 
 Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
 
-[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
+[![future Googler sign](Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
 
 ## هل حصلت على الوظيفة بجوجل؟
@@ -224,7 +224,7 @@ I'm on the journey, too. Follow along:
 - لينكدإن: [johnawasham](https://www.linkedin.com/in/johnawasham)
 
 
-![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
+![John Washam - Google Interview University](book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
 ## هل تشعر أنك لست بالذكاء الكافي
 - مهندسوا جوجل أذكياء، وربما لديهم عدم الأمان لأنهم ليسوا بالذكاء الكافي، حتى وهي في جوجل
@@ -1386,7 +1386,7 @@ No whiteboard at home? That makes sense. I'm a weirdo and have a big whiteboard.
 large drawing pad from an art store. You can sit on the couch and practice. This is my "sofa whiteboard".
 I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick.
 
-![my sofa whiteboard](https://dng5l3qzreal6.cloudfront.net/2016/Oct/art_board_sm_2-1476233630368.jpg)
+![my sofa whiteboard](art_board_sm_2-1476233630368.jpg)
 
 Supplemental:
 

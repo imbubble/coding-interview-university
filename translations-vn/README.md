@@ -31,7 +31,7 @@ Ghi chú riêng cho việc duy trì và cập nhật bản dịch tiếng Việt
 
 Đây là kế hoạch học tập trong nhiều tháng của tôi, để từ một nhà phát triển web (tự học, không có bằng cấp về Khoa Học Máy Tính - KHMT) trở thành một kỹ sư phần mềm ở Google.
 
-![Viết code trên bảng - ảnh trích từ bộ phim Silicon Valley của HBO](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+![Viết code trên bảng - ảnh trích từ bộ phim Silicon Valley của HBO](coding_board_small-1470866369118.jpg)
 
 Danh sách dài này được trích và mở rộng từ **Ghi chú huấn luyện của Google**, vậy nên đây là những gì bạn cần biết.
 Một vài mục tôi thêm vào ở cuối danh sách có thể xuất hiện trong cuộc phỏng vấn hoặc hữu ích cho việc giải quyết các bài toán về lập trình. Nhiều mục đến từ bài viết [Lấy được việc ở Google (Get that job at Google)](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" của Steve Yegge.
@@ -1379,7 +1379,7 @@ Dưới đây là một bài viết tuyệt vời về phương thức luận, c
 
 Không có bảng trắng ở nhà? Cũng hợp lý chứ. Tôi có chút khác biệt và tôi có một cái bảng trắng rất to. Thay vì bảng trắng, bạn có thể chọn một tập sổ ký họa từ các cửa hàng nghệ thuật. Bạn có thể ngồi ở ghế salon và thực hành. Tôi gọi nó là "bảng trắng mềm mại". Tôi có bỏ vào cây bút để dễ ước lượng. Nếu bạn dùng bút mực, bạn sẽ mong chọn loại nào có thể tẩy được ấy, vì sớm muộn sẽ rối cả lên.
 
-![Bảng trắng mềm mại của tôi(my sofa whiteboard)](https://dng5l3qzreal6.cloudfront.net/2016/Oct/art_board_sm_2-1476233630368.jpg)
+![Bảng trắng mềm mại của tôi(my sofa whiteboard)](art_board_sm_2-1476233630368.jpg)
 
 Phụ lục:
 

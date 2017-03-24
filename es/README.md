@@ -6,7 +6,7 @@ Version original: [Inglés](README.md)
 
 Es mi guía de estudio en varios meses para ir de desarrollador web (Autodidacta, sin grado en Ciencias de Computadores) a ingeniero de software en Google. 
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+![Coding at the whiteboard - from HBO's Silicon Valley](coding_board_small-1470866369118.jpg)
 
 This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know.
 There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
@@ -200,7 +200,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
 
-[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
+[![future Googler sign](Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
 ## Did I Get the Job?
 
@@ -223,7 +223,7 @@ I'm on the journey, too. Follow along:
 - Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
 - LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
 
-![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
+![John Washam - Google Interview University](book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
 ## Don't feel you aren't smart enough
 - Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.
@@ -1347,7 +1347,7 @@ No whiteboard at home? That makes sense. I'm a weirdo and have a big whiteboard.
 large drawing pad from an art store. You can sit on the couch and practice. This is my "sofa whiteboard".
 I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick.
 
-![my sofa whiteboard](https://dng5l3qzreal6.cloudfront.net/2016/Oct/art_board_sm_2-1476233630368.jpg)
+![my sofa whiteboard](art_board_sm_2-1476233630368.jpg)
 
 Supplemental:
 

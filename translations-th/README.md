@@ -30,7 +30,7 @@
 
 นี่เป็นแผนการศึกษาหลายเดือนของผมจากนักพัฒนาเว็บไซต์ (ด้วยการศึกษาด้วยตัวเอง โดยไม่ได้จบวิทยาการคอมพิวเตอร์) เพื่อจะเป็นวิศวกรซอฟต์แวร์ในบริษัทขนาดใหญ่ที่หลายๆ คนต้องการเข้าทำงานด้วย
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+![Coding at the whiteboard - from HBO's Silicon Valley](coding_board_small-1470866369118.jpg)
 
 บทความนี้สำหรับคนที่อยากเป็น **วิศวกรซอฟต์แวร์** หรือต้องการเปลี่ยนมาจากนักพัฒนาซอฟต์แวร์หรือนักพัฒนาเว็บไซด์มาเป็นวิศวกรซอฟต์แวร์ (ผู้ซึ่งมีความรู้ความเข้าใจลึกซึ่งในหลักการของวิทยาการคอมพิวเตอร์) ถ้าคุณมีประสบการณ์หลายปีและมั่นใจในประสบการณ์การเป็นวิศวกรซอฟต์แวร์ของคุณ จะได้เจอการสัมภาษณ์ที่ยากขึ้นแน่นอน
 
@@ -1341,7 +1341,7 @@ No whiteboard at home? That makes sense. I'm a weirdo and have a big whiteboard.
 large drawing pad from an art store. You can sit on the couch and practice. This is my "sofa whiteboard".
 I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick.
 
-![my sofa whiteboard](https://dng5l3qzreal6.cloudfront.net/2016/Oct/art_board_sm_2-1476233630368.jpg)
+![my sofa whiteboard](art_board_sm_2-1476233630368.jpg)
 
 Supplemental:
 
